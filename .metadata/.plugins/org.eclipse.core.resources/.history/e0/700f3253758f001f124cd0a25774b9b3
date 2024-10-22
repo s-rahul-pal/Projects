@@ -1,0 +1,5 @@
+package com.firstProject.springboot.cruddemo.dao;
+
+public interface EmployeeDAO {
+
+}
