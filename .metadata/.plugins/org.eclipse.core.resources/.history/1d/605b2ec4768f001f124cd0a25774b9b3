@@ -1,5 +1,0 @@
-package com.firstProject.springboot.cruddemo.rest;
-
-public class EmployeeRestController {
-
-}
